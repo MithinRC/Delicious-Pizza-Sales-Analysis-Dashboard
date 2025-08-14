@@ -30,11 +30,8 @@ The goal of this project is to help stakeholders monitor performance, identify t
 
 ---
 
-## 📂 Project Structure
-- **/Dashboard_Screenshots/** – Contains images of the Power BI dashboard.
-- **/Data/** – Contains sample sales data used for the analysis.
-- **README.md** – Project documentation.
-
+## 📂 Dashboard Preview
+![image alt](https://github.com/MithinRC/Delicious-Pizza-Sales-Analysis-Dashboard/blob/80da5c5f89c7d109ccac8ba248efee25e6193305/Screenshot%202025-08-14%20122953.png)
 ---
 
 ## 🚀 How to Use
@@ -55,7 +52,8 @@ The goal of this project is to help stakeholders monitor performance, identify t
 
 ## 📬 Contact
 **Author:** Mithin R C  
-**Email:** [Your Email Here]  
-**LinkedIn:** [Your LinkedIn Profile]  
+**Email:** mithinchoodappa@gmail.com 
+
+**LinkedIn:** linkedin.com/in/mithin-rc
 
 ---
